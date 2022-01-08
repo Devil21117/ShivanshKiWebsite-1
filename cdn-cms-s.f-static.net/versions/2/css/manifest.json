@@ -1,0 +1,9 @@
+{
+	"name": "S-portfoliopro",
+	"short_name": "S-portfoliopro",
+	"theme_color": "#11144c",
+	"background_color": "#000000",
+	"display": "standalone",
+	"Scope": "https://61d6d97e06f3e.site123.me/",
+	"start_url": "https://61d6d97e06f3e.site123.me/",
+	"icons": [{"src":"https://static.s123-cdn-static-d.com/uploads/5876846/192_192_61d7cad298752.png","sizes":"192x192","type":"image/png"},{"src":"https://static.s123-cdn-static-d.com/uploads/5876846/normal_61d7cad298752.png","sizes":"512x512","type":"image/png"}]}
